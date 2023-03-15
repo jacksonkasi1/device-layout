@@ -69,5 +69,5 @@ You can modify these styles to fit your specific use case.
 
 ## License
 
-This project is licensed under the **[MIT License](https://github.com/jacksonkasi1/device-layouts/blob/main/LICENSE)** - see the LICENSE file for details.
+This project is licensed under the **[MIT License](https://github.com/jacksonkasi1/device-layout/blob/main/LICENSE)** - see the LICENSE file for details.
 
