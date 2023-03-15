@@ -6,7 +6,7 @@ Device Layouts is a component that provides responsive layouts for different dev
 
 To install this package, run:
 ```bash
-npm install react-responsive-layouts
+npm install device-layout
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ First, import the `Layouts` component into your project:
 
 ```js
 import React from "react";
-import Layouts from "react-responsive-layouts";
+import Layouts from "device-layout";
 ```
 
 Then, create your element that you want to display in the layout, for example:
