@@ -6,7 +6,7 @@ Device Layouts is a component that provides responsive layouts for different dev
 
 To install this package, run:
 ```bash
-npm install device-layout
+npm install device-layouts
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ First, import the `Layouts` component into your project:
 
 ```js
 import React from "react";
-import Layouts from "device-layout";
+import Layouts from "device-layouts";
 ```
 
 Then, create your element that you want to display in the layout, for example:
@@ -69,5 +69,5 @@ You can modify these styles to fit your specific use case.
 
 ## License
 
-This project is licensed under the **[MIT License](https://github.com/jacksonkasi1/device-layout/blob/main/LICENSE)** - see the LICENSE file for details.
+This project is licensed under the **[MIT License](https://github.com/jacksonkasi1/device-layouts/blob/main/LICENSE)** - see the LICENSE file for details.
 

@@ -1,5 +1,5 @@
 {
-  "name": "device-layout",
+  "name": "device-layouts",
   "version": "1.0.0",
   "description": "Device layouts",
   "main": "dist/index.js",
