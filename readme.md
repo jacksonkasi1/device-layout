@@ -2,6 +2,8 @@
 
 Device Layouts is a component that provides responsive layouts for different devices such as laptops and iPhones. It comes with pre-defined CSS styles that are customizable to fit your specific use case.
 
+## [Blog about this npm](https://jacksonkasi.hashnode.dev/display-your-website-or-application-in-a-realistic-device-layout-using-the-device-layouts-npm-package)
+
 ## Installation
 
 To install this package, run:
