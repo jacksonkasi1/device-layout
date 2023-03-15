@@ -10,7 +10,6 @@ body {
 
 .laptop_layout {
   width: 100%;
-  background: #000000;
   height: 97.5vh;
   padding-top: 2vh;
 }
@@ -18,7 +17,6 @@ body {
 .iphone_layout {
   width: 100%;
   width: 100%;
-  background: #484848;
   height: 97.5vh;
   padding-top: 2vh;
 }
