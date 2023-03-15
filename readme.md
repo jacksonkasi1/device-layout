@@ -45,6 +45,15 @@ return (
 );
 ```
 
+---
+
+### Laptop Layout
+<img src="./src/assets/images/laptop-layout.png"/>
+
+### Iphone Layout
+<img src="./src/assets/images/iphone-layout.png"/>
+
+
 You can also customize the CSS styles of the layouts by adding new styles or overriding the pre-defined ones.
 
 ## CSS Styles
