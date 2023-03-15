@@ -16,11 +16,6 @@
     "device layouts"
   ],
   "license": "MIT",
-  "author": {
-    "name": "Jackson Kasi",
-    "email": "nammalvar888@gmail.com",
-    "url": "https://github.com/jacksonkasi1"
-  },
   "dependencies": {
     "react": "^18.2.0"
   },
@@ -37,5 +32,17 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksonkasi1/device-layout"
+},
+"author": {
+  "name": "Jackson Kasi",
+  "email": "nammalvar888@gmail.com",
+  "url": "https://github.com/jacksonkasi1"
+},
+  "scripts": {
+    "test": "echo 'No tests currently available'"
   }
 }
