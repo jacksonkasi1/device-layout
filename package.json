@@ -1,0 +1,41 @@
+{
+  "name": "device-layout",
+  "version": "1.0.0",
+  "description": "Device layouts",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "layouts",
+    "iphone layout",
+    "layouts component",
+    "layout",
+    "laptop component",
+    "device layouts"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Jackson Kasi",
+    "email": "nammalvar888@gmail.com",
+    "url": "https://github.com/jacksonkasi1"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "babel-loader": "^9.1.2",
+    "css-loader": "^6.7.3",
+    "file-loader": "^6.2.0",
+    "style-loader": "^3.3.2",
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
+}
