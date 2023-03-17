@@ -1,6 +1,6 @@
 {
   "name": "device-layouts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Device layouts",
   "main": "dist/index.js",
   "files": [
